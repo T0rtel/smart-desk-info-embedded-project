@@ -4,7 +4,7 @@ A small desk companion built on an ESP32 that shows the current time and live we
 
 This is **v1** of the project, running on a breadboard. A DHT22 sensor, battery power (via buck converter), and a physical on/off switch are planned as follow-up upgrades.
 
-![Prototype on breadboard](photos/prototype-overview.jpg)
+![Prototype on breadboard](photos/first_prototype.jpeg)
 
 ## Features
 
