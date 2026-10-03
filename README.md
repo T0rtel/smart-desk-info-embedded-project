@@ -100,7 +100,7 @@ Open the sketch in the Arduino IDE, select your ESP32 board and port, and upload
 - [ ] Add a buck converter + battery pack for portable power
 - [ ] Add a physical on/off switch
 - [ ] Move from breadboard to a soldered/permanent build
-- [ ] Possibly add a small enclosure/case
+- [ ] Possibly add a small enclosure/case (3D printed)
 
 ## License
 
